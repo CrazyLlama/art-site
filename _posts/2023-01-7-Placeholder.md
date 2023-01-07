@@ -1,7 +1,9 @@
 ---
 layout: default
 title: placeholder - art
-tags: art
+categories: art
+author: "Brett Calderbank"
+meta: "OCA Prep"
 ---
 
 Welcome to the site!
