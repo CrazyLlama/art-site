@@ -1,6 +1,6 @@
 ---
 layout: post
-title: placeholder - art
+title: Placeholder - Art
 categories: art
 author: "Brett Calderbank"
 meta: "OCA Prep"
