@@ -8,4 +8,4 @@ meta: "OCA Prep"
 
 Welcome to the site!
 
-![Default Image](/assets/images/DefaultImage.jpg)
+![Default Image](/assets/DefaultImage.jpg)
