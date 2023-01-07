@@ -1,0 +1,24 @@
+permalink: /:year:month:day/:title
+url: https://approximately.be
+baseurl: /
+
+# variables
+name: Hello World
+description: It's happening, here and now
+
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE", "CNAME", ".gitignore"]
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable : true
