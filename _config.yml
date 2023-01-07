@@ -1,0 +1,27 @@
+title: Art
+author: Brett Calderbank
+email: noemailsthanks
+description: > # this means to ignore newlines until "twitter_username:"
+  Art work of the artist named Brett Calderbank
+
+# social links
+github_username:  CrazyLlama
+
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%d %b, %y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
